@@ -7943,7 +7943,8 @@ aside {
   margin: 0;
   border: none;
   padding: 0;
-  font-size: 0.59063rem; }
+  font-size: 0.59063rem;
+  text-decoration: none; }
 
 #likeFacebook, #twitterFollowers, #whatsappMembers {
   position: relative;
@@ -8036,7 +8037,8 @@ aside {
 .new-post > p {
   background-color: #dc3545;
   color: #fff;
-  padding: 0.25rem 1rem; }
+  padding: 0 1rem;
+  line-height: 2rem; }
   .new-post > p:before {
     content: "";
     position: absolute;
@@ -8051,7 +8053,8 @@ aside {
 .lifestyle > p {
   background-color: #007bff;
   color: #fff;
-  padding: 0.25rem 1rem; }
+  padding: 0 1rem;
+  line-height: 2rem; }
   .lifestyle > p:before {
     content: "";
     position: absolute;
@@ -8066,7 +8069,8 @@ aside {
 .news > p {
   background-color: #495057;
   color: #fff;
-  padding: 0.25rem 1rem; }
+  padding: 0 1rem;
+  line-height: 2rem; }
   .news > p:before {
     content: "";
     position: absolute;
